@@ -15,10 +15,8 @@
                But nobody pays me a dime for that work .That's why I am learning and mastering web devlopment.
                I will not stop untill I become the Web development Master.</p>
             </div>
-                
-                
             <div class="bal">
-                <img class="side-img" src="images/mtrashid.png"alt="">
+                <img class="side-img" src="mtrashid.png"alt="">
             </div>
             <a class="primary-btn" href="https://www.facebook.com/tanveer.rashid.520">Click!</a>
             </section>
