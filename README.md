@@ -16,7 +16,7 @@
                I will not stop untill I become the Web development Master.</p>
             </div>
             <div class="bal">
-                <img class="side-img" src="images/mtrashid.png">
+                <img class="side-img"src="images/mtrashid.png">
             </div>
             <a class="primary-btn" href="https://www.facebook.com/tanveer.rashid.520">Click!</a>
             </section>
