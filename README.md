@@ -17,7 +17,6 @@
             </div>
                 
                 
-                
             <div class="bal">
                 <img class="side-img" src="images/mtrashid.png"alt="">
             </div>
